@@ -14,11 +14,9 @@ git clone https://github.com/HtunThiha/MySQL-to-DBML.git
 ```
 
 ## 2. Install packages
+This package is required for MySQL => DBML conversion
 ```
 npm install -g @dbms/cli
-```
-```
-npm install dotenv child_process
 ```
 
 ## 3. Edit .env
