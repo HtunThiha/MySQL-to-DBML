@@ -23,7 +23,7 @@ npm install -g @dbms/cli
 Go to .env file in the root folder, and input your database details
 ```
 # Edit your database info here
-
+# By default, host = localhost, port = 3306, and user = root
 DB_HOST=
 DB_PORT=
 DB_USER=
